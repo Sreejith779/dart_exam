@@ -1,3 +1,6 @@
+//14
+
+
 void main(){
 int sum = 0;
   for(int i = 0; i<=25; i++){
